@@ -1,0 +1,12 @@
+[submodule "01. Run a Command-line App in a New Terminal window using Bash and AppleScript"]
+	path = 01. Run a Command-line App in a New Terminal window using Bash and AppleScript
+	url = https://github.com/nodename/egghead-termcmd
+[submodule "02. Turn a command-line app into a menu item in Finder"]
+	path = 02. Turn a command-line app into a menu item in Finder
+	url = https://github.com/nodename/egghead-service
+[submodule "03. Turn a Command-Line App into a Mac App"]
+	path = 03. Turn a Command-Line App into a Mac App
+	url = https://github.com/nodename/egghead-script-application
+[submodule "05. Create a new subfolder of any selected folder in Finder with AppleScript"]
+	path = 05. Create a new subfolder of any selected folder in Finder with AppleScript
+	url = https://github.com/nodename/egghead-new-subfolder
