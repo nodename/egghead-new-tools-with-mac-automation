@@ -10,3 +10,6 @@
 [submodule "05. Create a new subfolder of any selected folder in Finder with AppleScript"]
 	path = 05. Create a new subfolder of any selected folder in Finder with AppleScript
 	url = https://github.com/nodename/egghead-new-subfolder
+[submodule "06. Move items in Finder to a user-selected folder with AppleScript"]
+	path = 06. Move items in Finder to a user-selected folder with AppleScript
+	url = https://github.com/nodename/egghead-move-to
